@@ -1,0 +1,119 @@
+name,active_salt,category,common_use
+Paracetamol,Acetaminophen,Analgesic/Antipyretic,Pain relief and fever reduction
+Ibuprofen,Ibuprofen,NSAID,Pain relief and inflammation
+Aspirin,Acetylsalicylic Acid,NSAID/Antiplatelet,Pain relief and blood thinning
+Amoxicillin,Amoxicillin,Antibiotic,Bacterial infections
+Azithromycin,Azithromycin,Antibiotic,Bacterial infections and respiratory infections
+Ciprofloxacin,Ciprofloxacin,Antibiotic,Urinary tract and bacterial infections
+Metronidazole,Metronidazole,Antibiotic/Antiprotozoal,Anaerobic bacterial and parasitic infections
+Doxycycline,Doxycycline,Antibiotic,Bacterial infections and acne
+Cetirizine,Cetirizine,Antihistamine,Allergy relief
+Loratadine,Loratadine,Antihistamine,Allergy relief without drowsiness
+Diphenhydramine,Diphenhydramine,Antihistamine,Allergy relief and sleep aid
+Fexofenadine,Fexofenadine,Antihistamine,Seasonal allergy relief
+Montelukast,Montelukast,Leukotriene Inhibitor,Asthma and allergy prevention
+Omeprazole,Omeprazole,Proton Pump Inhibitor,Acid reflux and stomach ulcers
+Pantoprazole,Pantoprazole,Proton Pump Inhibitor,Acid reflux and GERD
+Ranitidine,Ranitidine,H2 Blocker,Acid reflux and peptic ulcers
+Esomeprazole,Esomeprazole,Proton Pump Inhibitor,GERD and acid reflux
+Metformin,Metformin,Antidiabetic,Type 2 diabetes management
+Glimepiride,Glimepiride,Sulfonylurea,Type 2 diabetes management
+Insulin Glargine,Insulin,Antidiabetic,Diabetes blood sugar control
+Pioglitazone,Pioglitazone,Thiazolidinedione,Type 2 diabetes management
+Sitagliptin,Sitagliptin,DPP-4 Inhibitor,Type 2 diabetes management
+Amlodipine,Amlodipine,Calcium Channel Blocker,High blood pressure
+Losartan,Losartan,ARB,High blood pressure
+Telmisartan,Telmisartan,ARB,High blood pressure
+Ramipril,Ramipril,ACE Inhibitor,High blood pressure and heart failure
+Enalapril,Enalapril,ACE Inhibitor,High blood pressure
+Lisinopril,Lisinopril,ACE Inhibitor,High blood pressure and heart failure
+Atenolol,Atenolol,Beta Blocker,High blood pressure and angina
+Metoprolol,Metoprolol,Beta Blocker,High blood pressure and heart rate control
+Propranolol,Propranolol,Beta Blocker,High blood pressure and anxiety tremors
+Hydrochlorothiazide,Hydrochlorothiazide,Diuretic,High blood pressure and fluid retention
+Furosemide,Furosemide,Loop Diuretic,Fluid retention and edema
+Spironolactone,Spironolactone,Potassium-Sparing Diuretic,Heart failure and fluid retention
+Atorvastatin,Atorvastatin,Statin,High cholesterol management
+Rosuvastatin,Rosuvastatin,Statin,High cholesterol management
+Simvastatin,Simvastatin,Statin,High cholesterol management
+Clopidogrel,Clopidogrel,Antiplatelet,Prevention of blood clots
+Warfarin,Warfarin,Anticoagulant,Prevention of blood clots
+Heparin,Heparin,Anticoagulant,Blood clot prevention and treatment
+Rivaroxaban,Rivaroxaban,Anticoagulant,Blood clot prevention
+Apixaban,Apixaban,Anticoagulant,Stroke prevention in atrial fibrillation
+Diazepam,Diazepam,Benzodiazepine,Anxiety and muscle spasms
+Alprazolam,Alprazolam,Benzodiazepine,Anxiety and panic disorders
+Clonazepam,Clonazepam,Benzodiazepine,Seizures and panic disorders
+Sertraline,Sertraline,SSRI,Depression and anxiety
+Fluoxetine,Fluoxetine,SSRI,Depression and OCD
+Escitalopram,Escitalopram,SSRI,Depression and generalized anxiety
+Amitriptyline,Amitriptyline,Tricyclic Antidepressant,Depression and nerve pain
+Venlafaxine,Venlafaxine,SNRI,Depression and anxiety
+Duloxetine,Duloxetine,SNRI,Depression and neuropathic pain
+Gabapentin,Gabapentin,Anticonvulsant,Nerve pain and seizures
+Pregabalin,Pregabalin,Anticonvulsant,Nerve pain and fibromyalgia
+Carbamazepine,Carbamazepine,Anticonvulsant,Seizures and trigeminal neuralgia
+Phenytoin,Phenytoin,Anticonvulsant,Seizures and epilepsy
+Valproic Acid,Valproate,Anticonvulsant,Seizures and bipolar disorder
+Lithium,Lithium Carbonate,Mood Stabilizer,Bipolar disorder management
+Levothyroxine,Levothyroxine,Thyroid Hormone,Hypothyroidism treatment
+Methimazole,Methimazole,Antithyroid,Hyperthyroidism treatment
+Prednisone,Prednisone,Corticosteroid,Inflammation and autoimmune conditions
+Prednisolone,Prednisolone,Corticosteroid,Inflammation and allergic reactions
+Dexamethasone,Dexamethasone,Corticosteroid,Severe inflammation and immune suppression
+Hydrocortisone,Hydrocortisone,Corticosteroid,Skin inflammation and adrenal insufficiency
+Salbutamol,Salbutamol,Bronchodilator,Asthma and COPD relief
+Ipratropium,Ipratropium,Anticholinergic Bronchodilator,COPD and asthma
+Budesonide,Budesonide,Inhaled Corticosteroid,Asthma prevention
+Fluticasone,Fluticasone,Inhaled Corticosteroid,Asthma and allergic rhinitis
+Theophylline,Theophylline,Bronchodilator,Asthma and COPD
+Domperidone,Domperidone,Antiemetic,Nausea and vomiting
+Ondansetron,Ondansetron,Antiemetic,Nausea and vomiting prevention
+Metoclopramide,Metoclopramide,Antiemetic/Prokinetic,Nausea and gastroparesis
+Loperamide,Loperamide,Antidiarrheal,Diarrhea relief
+Bisacodyl,Bisacodyl,Laxative,Constipation relief
+Lactulose,Lactulose,Osmotic Laxative,Constipation and hepatic encephalopathy
+Diclofenac,Diclofenac,NSAID,Pain and inflammation
+Naproxen,Naproxen,NSAID,Pain and inflammation
+Celecoxib,Celecoxib,COX-2 Inhibitor,Pain and inflammation
+Tramadol,Tramadol,Opioid Analgesic,Moderate to severe pain
+Morphine,Morphine,Opioid Analgesic,Severe pain management
+Codeine,Codeine,Opioid Analgesic,Mild to moderate pain and cough
+Fentanyl,Fentanyl,Opioid Analgesic,Severe chronic pain
+Cyclobenzaprine,Cyclobenzaprine,Muscle Relaxant,Muscle spasm relief
+Baclofen,Baclofen,Muscle Relaxant,Muscle spasticity
+Tizanidine,Tizanidine,Muscle Relaxant,Muscle spasticity
+Tamsulosin,Tamsulosin,Alpha Blocker,Benign prostatic hyperplasia
+Sildenafil,Sildenafil,PDE5 Inhibitor,Erectile dysfunction and PAH
+Finasteride,Finasteride,5-Alpha Reductase Inhibitor,Benign prostatic hyperplasia and hair loss
+Methotrexate,Methotrexate,Immunosuppressant,Rheumatoid arthritis and cancer
+Hydroxychloroquine,Hydroxychloroquine,Antimalarial/Immunomodulator,Lupus and rheumatoid arthritis
+Allopurinol,Allopurinol,Xanthine Oxidase Inhibitor,Gout prevention
+Colchicine,Colchicine,Anti-inflammatory,Gout flare treatment
+Acetylcysteine,N-Acetylcysteine,Mucolytic,Mucus thinning and acetaminophen overdose
+Dextromethorphan,Dextromethorphan,Antitussive,Cough suppression
+Guaifenesin,Guaifenesin,Expectorant,Productive cough and mucus clearance
+Pseudoephedrine,Pseudoephedrine,Decongestant,Nasal congestion relief
+Oxymetazoline,Oxymetazoline,Decongestant,Nasal congestion relief (spray)
+Clopidogrel,Clopidogrel,Antiplatelet,Blood clot prevention
+Nitroglycerin,Nitroglycerin,Vasodilator,Angina and chest pain relief
+Digoxin,Digoxin,Cardiac Glycoside,Heart failure and atrial fibrillation
+Amiodarone,Amiodarone,Antiarrhythmic,Heart rhythm disorders
+Verapamil,Verapamil,Calcium Channel Blocker,Heart rhythm and blood pressure
+Diltiazem,Diltiazem,Calcium Channel Blocker,Angina and high blood pressure
+Clindamycin,Clindamycin,Antibiotic,Serious bacterial infections
+Cephalexin,Cephalexin,Cephalosporin Antibiotic,Bacterial infections
+Levofloxacin,Levofloxacin,Fluoroquinolone Antibiotic,Bacterial infections
+Fluconazole,Fluconazole,Antifungal,Fungal infections
+Ketoconazole,Ketoconazole,Antifungal,Fungal infections
+Acyclovir,Acyclovir,Antiviral,Herpes and viral infections
+Oseltamivir,Oseltamivir,Antiviral,Influenza treatment
+Ivermectin,Ivermectin,Antiparasitic,Parasitic infections
+Mebendazole,Mebendazole,Anthelmintic,Worm infections
+Iron Supplement,Ferrous Sulfate,Mineral Supplement,Iron deficiency anemia
+Calcium Supplement,Calcium Carbonate,Mineral Supplement,Calcium deficiency
+Vitamin D,Cholecalciferol,Vitamin Supplement,Vitamin D deficiency
+Vitamin B12,Cyanocobalamin,Vitamin Supplement,B12 deficiency and anemia
+Folic Acid,Folic Acid,Vitamin Supplement,Pregnancy support and anemia prevention
+Zinc Supplement,Zinc Gluconate,Mineral Supplement,Immune support and zinc deficiency
+Melatonin,Melatonin,Sleep Aid,Sleep regulation

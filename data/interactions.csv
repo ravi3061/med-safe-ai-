@@ -1,0 +1,83 @@
+drug_a,drug_b,severity,description
+Warfarin,Aspirin,severe,Significantly increases bleeding risk. Both affect blood clotting through different mechanisms. Concurrent use requires close medical supervision.
+Warfarin,Ibuprofen,severe,NSAIDs increase bleeding risk and may interfere with warfarin metabolism. Can cause serious gastrointestinal bleeding.
+Warfarin,Naproxen,severe,Naproxen increases bleeding risk when combined with warfarin. May cause GI bleeding.
+Warfarin,Fluconazole,severe,Fluconazole inhibits warfarin metabolism leading to dangerously elevated anticoagulant effects.
+Warfarin,Metronidazole,moderate,Metronidazole may increase warfarin effect and bleeding risk. Monitor INR closely.
+Warfarin,Amiodarone,severe,Amiodarone significantly increases warfarin levels. Dose adjustment and close INR monitoring required.
+Warfarin,Clopidogrel,severe,Combined anticoagulant and antiplatelet effect greatly increases bleeding risk.
+Aspirin,Ibuprofen,moderate,Ibuprofen may reduce the cardioprotective effect of aspirin. Take aspirin at least 30 minutes before ibuprofen.
+Aspirin,Clopidogrel,moderate,Both are antiplatelet agents. Combination increases bleeding risk but may be prescribed together under supervision.
+Aspirin,Naproxen,moderate,Concurrent NSAID use increases risk of GI bleeding and ulcers.
+Aspirin,Heparin,severe,Major increase in bleeding risk. Both affect clotting mechanisms.
+Metformin,Alcohol,moderate,Alcohol increases the risk of lactic acidosis with metformin. Avoid excessive alcohol consumption.
+Metformin,Furosemide,moderate,Furosemide may increase metformin levels. Monitor blood sugar and kidney function.
+Metformin,Ciprofloxacin,moderate,Ciprofloxacin may alter blood sugar levels when used with metformin. Monitor glucose closely.
+Metformin,Contrast Dye,severe,Metformin should be stopped before and after contrast media procedures due to lactic acidosis risk.
+Simvastatin,Amiodarone,severe,Amiodarone increases simvastatin levels significantly raising risk of muscle damage (rhabdomyolysis).
+Simvastatin,Fluconazole,severe,Fluconazole inhibits statin metabolism leading to elevated levels and muscle toxicity risk.
+Simvastatin,Diltiazem,moderate,Diltiazem increases simvastatin levels. Maximum simvastatin dose should be limited.
+Simvastatin,Verapamil,moderate,Verapamil increases simvastatin levels. Dose limitation recommended.
+Atorvastatin,Fluconazole,moderate,Fluconazole may increase statin levels. Monitor for muscle pain or weakness.
+Atorvastatin,Ketoconazole,severe,Ketoconazole significantly increases atorvastatin levels risking rhabdomyolysis.
+Amlodipine,Simvastatin,moderate,Amlodipine increases simvastatin levels. Simvastatin dose should not exceed 20mg.
+ACE Inhibitor,Potassium Supplement,moderate,ACE inhibitors can increase potassium levels. Adding potassium supplements may cause dangerous hyperkalemia.
+Ramipril,Spironolactone,moderate,Both increase potassium levels. Risk of hyperkalemia when combined.
+Lisinopril,Spironolactone,moderate,Combined use increases risk of hyperkalemia. Monitor potassium levels regularly.
+Enalapril,Potassium Supplement,moderate,Risk of hyperkalemia. Monitor potassium levels closely.
+Digoxin,Amiodarone,severe,Amiodarone increases digoxin levels by 70-100%. Dose reduction and monitoring required.
+Digoxin,Verapamil,severe,Verapamil increases digoxin levels and both slow heart rate. Risk of severe bradycardia.
+Digoxin,Furosemide,moderate,Furosemide-induced low potassium increases digoxin toxicity risk. Monitor electrolytes.
+Digoxin,Hydrochlorothiazide,moderate,Thiazide-induced hypokalemia increases risk of digoxin toxicity.
+Lithium,Ibuprofen,severe,NSAIDs reduce lithium excretion causing toxic lithium levels. Avoid combination.
+Lithium,Naproxen,severe,Naproxen reduces lithium clearance. Risk of lithium toxicity.
+Lithium,Furosemide,severe,Furosemide reduces lithium excretion. Risk of lithium toxicity.
+Lithium,Hydrochlorothiazide,severe,Thiazide diuretics reduce lithium excretion and can cause toxicity.
+Lithium,ACE Inhibitor,moderate,ACE inhibitors may increase lithium levels. Monitor lithium levels closely.
+Fluoxetine,Tramadol,severe,Risk of serotonin syndrome. Both increase serotonin levels. Symptoms include agitation and high fever.
+Fluoxetine,Sertraline,severe,Never combine two SSRIs. Extreme risk of serotonin syndrome.
+Sertraline,Tramadol,severe,Risk of serotonin syndrome. Avoid concurrent use or use with extreme caution.
+Sertraline,MAO Inhibitor,severe,Potentially fatal serotonin syndrome. Must have washout period between medications.
+Escitalopram,Tramadol,severe,Increased risk of serotonin syndrome and seizures.
+Venlafaxine,Tramadol,severe,Both increase serotonin. High risk of serotonin syndrome.
+Duloxetine,Tramadol,severe,Risk of serotonin syndrome and seizures with concurrent use.
+Amitriptyline,Fluoxetine,moderate,Fluoxetine increases amitriptyline levels. Risk of enhanced side effects.
+Methotrexate,Ibuprofen,severe,NSAIDs reduce methotrexate clearance causing toxic accumulation. Can be fatal.
+Methotrexate,Naproxen,severe,Naproxen reduces methotrexate clearance. Risk of severe toxicity.
+Methotrexate,Aspirin,moderate,Aspirin may increase methotrexate levels. Use with caution and monitoring.
+Ciprofloxacin,Calcium Supplement,moderate,Calcium significantly reduces ciprofloxacin absorption. Take at least 2 hours apart.
+Ciprofloxacin,Iron Supplement,moderate,Iron reduces fluoroquinolone absorption. Separate doses by at least 2 hours.
+Ciprofloxacin,Theophylline,severe,Ciprofloxacin increases theophylline levels. Risk of theophylline toxicity.
+Ciprofloxacin,Tizanidine,severe,Ciprofloxacin dramatically increases tizanidine levels. Combination is contraindicated.
+Levothyroxine,Calcium Supplement,moderate,Calcium reduces levothyroxine absorption. Take levothyroxine 4 hours before calcium.
+Levothyroxine,Iron Supplement,moderate,Iron reduces levothyroxine absorption. Separate by at least 4 hours.
+Levothyroxine,Omeprazole,moderate,PPIs may reduce levothyroxine absorption. May need dose adjustment.
+Omeprazole,Clopidogrel,severe,Omeprazole significantly reduces clopidogrel effectiveness. Use pantoprazole instead if PPI needed.
+Pantoprazole,Clopidogrel,mild,Pantoprazole has less interaction with clopidogrel compared to omeprazole but some reduction in effect possible.
+Carbamazepine,Oral Contraceptives,severe,Carbamazepine reduces effectiveness of hormonal contraceptives. Use alternative contraception.
+Carbamazepine,Valproic Acid,moderate,Complex interaction. Carbamazepine reduces valproate levels while valproate increases carbamazepine toxic metabolite.
+Carbamazepine,Fluconazole,moderate,Fluconazole increases carbamazepine levels. Monitor for toxicity.
+Phenytoin,Valproic Acid,moderate,Valproate displaces phenytoin from protein binding. Free phenytoin levels increase.
+Phenytoin,Fluconazole,moderate,Fluconazole increases phenytoin levels. Monitor for toxicity signs.
+Phenytoin,Oral Contraceptives,severe,Phenytoin reduces hormonal contraceptive effectiveness significantly.
+Sildenafil,Nitroglycerin,severe,Potentially fatal drop in blood pressure. Combination is absolutely contraindicated.
+Sildenafil,Amlodipine,moderate,Enhanced blood pressure lowering effect. Risk of hypotension and dizziness.
+Alprazolam,Codeine,severe,Combined CNS depression. Risk of excessive sedation and respiratory depression.
+Alprazolam,Tramadol,severe,Combined CNS depression and increased seizure risk.
+Diazepam,Codeine,severe,Combined CNS and respiratory depression. Potentially fatal.
+Diazepam,Morphine,severe,Extreme risk of respiratory depression. Combination can be fatal.
+Clonazepam,Morphine,severe,Combined respiratory and CNS depression. Life-threatening interaction.
+Morphine,Gabapentin,moderate,Enhanced CNS depression. Increased risk of sedation and respiratory depression.
+Tramadol,Gabapentin,moderate,Combined CNS depression and increased seizure risk.
+Prednisone,Ibuprofen,moderate,Increased risk of gastrointestinal bleeding and ulceration.
+Prednisone,Aspirin,moderate,Combined use increases GI bleeding risk. Use gastroprotection.
+Dexamethasone,Warfarin,moderate,Corticosteroids may alter warfarin response. Monitor INR.
+Spironolactone,Potassium Supplement,severe,Both increase potassium levels. High risk of dangerous hyperkalemia.
+Allopurinol,Azathioprine,severe,Allopurinol markedly increases azathioprine toxicity. Dose must be reduced 75%.
+Colchicine,Fluconazole,moderate,Fluconazole increases colchicine levels. Risk of colchicine toxicity.
+Metoclopramide,Domperidone,severe,Both prokinetic agents. Combined use increases risk of cardiac arrhythmias.
+Amiodarone,Diltiazem,severe,Combined use can cause severe bradycardia and heart block.
+Amiodarone,Verapamil,severe,Risk of severe bradycardia and cardiac arrest.
+Propranolol,Verapamil,severe,Combined negative effects on heart rate and conduction. Risk of cardiac arrest.
+Atenolol,Verapamil,severe,Risk of severe bradycardia and heart block.
+Metoprolol,Diltiazem,moderate,Enhanced heart rate slowing. Monitor for bradycardia.
